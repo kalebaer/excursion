@@ -2,4 +2,10 @@
 body {
     background-color: black;
     align-items: center;
-  }
+}
+
+/* change hyperlink underline to match font color */
+a {
+    text-decoration: none;
+    border-bottom:1px aquamarine;
+}
